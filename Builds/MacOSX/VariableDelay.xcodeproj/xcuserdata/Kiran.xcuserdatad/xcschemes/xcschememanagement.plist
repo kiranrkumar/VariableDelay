@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>VariableDelay (AU).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>VariableDelay (All).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>VariableDelay (Shared Code).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>VariableDelay (VST).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>VariableDelay (VST3).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>24CE698B011DAAF1E21666CC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>25E3AC785ED28954BC13CB12</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC7103338EABCE48317C9F51</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D8BB8DD2C9EE0EF28738FDAE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FB406DD575255DADBB29076D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
